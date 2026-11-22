@@ -2,6 +2,9 @@
 
 **Original self-contained Pre-IB revision.** Referenced to user's school SAS, 15-question/92-mark teacher formative and markscheme, teacher IB-prep practice Q9–15/Q19–20; official IB AA **SL2.6/2.7 and AHL2.12**; actual Oxford IB Prepared **§2.3 p.49+** and **§2.4 p.60+**; Pearson AA HL **Ch.2 Functions** (chapter mapped, complete text not verified).
 
+
+> **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
+
 ## 1. Why does a quadratic curve appear?
 If a square has side length $x$, its area is $x^2$. Changing $x$ doesn't change the area at a constant rate: raising 2 to 3 changes area from 4 to 9, while raising 3 to 4 changes from 9 to 16. This *changing rate of change* creates the curved shape of $y=x^2$, a **parabola**.
 

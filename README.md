@@ -36,6 +36,7 @@ These independently written chapters align the school SAS objectives to actual o
 - [03 — Quadratics, discriminants, Vieta and graphs](guides/MATH_03_QUADRATICS.md)
 - [04 — SPLTV and linear programming](guides/MATH_04_LINEAR_PROGRAMMING.md)
 - [Teacher/regular paper question-to-topic crosswalk](guides/MATH_05_PAPER_CROSSWALK.md)
+- [Cross-topic modelling, IB commands and worked connections](guides/MATH_06_CROSS_TOPIC_APPLICATIONS.md)
 
 ## Required precedence
 

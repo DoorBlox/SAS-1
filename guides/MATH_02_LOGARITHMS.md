@@ -1,4 +1,6 @@
 # Mathematics Study Guide 02 — Logarithms, from zero to Pre-IB
+> **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
+
 
 **Original, reusable chapter. Grade X-6 SAS 23 November 2026.** School Pre-IB logarithm objectives; official IB Mathematics AA **SL1.5, SL1.7, SL2.9**; actual Oxford IB Prepared §1.3 pp. 13–16; Pearson AA HL Ch.4 contents confirmed. Teacher practice paper Q6–8, Q17–18(b); new exponent/log formative and practice banks. No teacher questions or copyrighted book text reproduced as a bulk worksheet.
 

@@ -26,7 +26,7 @@ Eliminate $y$:
 
 Now (5) gives $x=2z-4$. Substitute into (4):
 $$2(2z-4)+3z=13\Rightarrow 7z=21\Rightarrow \boxed{z=3}.$$
-Then $x=2(3)-4=\boxed2$, and from (1) $y=6-2-3=\boxed1$.
+Then $x=2(3)-4=\boxed{2}$, and from (1) $y=6-2-3=\boxed{1}$.
 
 **CHECK all equations:** $2+1+3=6$, $2-1+6=7$, $4+1-3=2$. Hence $\boxed{(x,y,z)=(2,1,3)}$.
 

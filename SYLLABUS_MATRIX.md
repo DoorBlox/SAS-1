@@ -1,10 +1,10 @@
 # School examination matrix — X-6, semester 1 (2026/27)
 
-Authority: `KISI-KISI SAS 20262027_KELAS 10.pdf` (13-page uploaded school document) + school timetable image. These are the **actual reported examination topics**. The objectives below beginning with "Can..." are **tutor-generated interpretations**, not quotations or an official IB guide. When an expanded topic appears only in the regular version, it is **foundation/enrichment**, not automatically Pre-IB-assessed.
+Authority: `KISI-KISI SAS 20262027_KELAS 10.pdf` (13-page uploaded school document) + school timetable image. **Latest student-reported teacher correction, 23 Nov 2026: SPLTV will NOT be on the actual Mathematics exam. Treat the master PDF reference to SPLTV as superseded for active revision; retain for historical accuracy. Linear programming/SPtLDV remains active unless separately excluded.** These are the **actual reported examination topics**. The objectives below beginning with "Can..." are **tutor-generated interpretations**, not quotations or an official IB guide. When an expanded topic appears only in the regular version, it is **foundation/enrichment**, not automatically Pre-IB-assessed.
 
 | Exam | Date | Official X / Pre-IB scope | Format | Evidence |
 | --- | --- | --- | --- | --- |
-| Pre-IB Mathematics | 23 Nov | Exponent properties/equations/graph; log properties/equations; quadratics roots/Vieta/new quadratic/graph; linear programme, SPLTV, feasible region, objective optimization | **15 essays** | master p. 2–3 |
+| Pre-IB Mathematics | 23 Nov | Exponent properties/equations/graph; log properties/equations; quadratics roots/Vieta/new quadratic/graph; linear programming, **NO SPLTV per latest teacher update**, feasible region, objective optimization | **15 essays** | master p. 2–3 |
 | Pre-IB Bahasa Indonesia | 23 Nov | Biografi: struktur & kebahasaan; LHO: struktur, objektivitas, data/simpulan; ethos/pathos/logos; TBEM analytical paragraph with quotation | **2 essays** | master p. 10–11 |
 | Physics | 24 Nov | Significant figures, measuring devices & uncertainty, scientific notation, vectors/dimensions; uniform/accelerated horizontal & vertical motion; projectile motion | **25 MCQ** | master p. 3–4 |
 | Fikih X | 24 Nov | Thaharah; shalat and rukhsah; zakat; funeral rites; halal slaughter/aqiqah/qurban; hajj/umrah | **50 MCQ** | master p. 4–5 |
@@ -30,7 +30,7 @@ M1. Prove and apply index rules with stated domain conditions; transform exponen
 M2. Link tables/graphs, base and transformation parameters; interpret domain/range/asymptotes/intercepts using Desmos as a CHECK.
 M3. Use logarithm identities, solve equations with argument restrictions and check for extraneous solutions.
 M4. Factor or solve quadratics; explain discriminants, Vieta sums/products, reconstruct polynomials after transforming roots; sketch the vertex, intercepts and axis.
-M5. Formulate constraints, find a feasible region, evaluate vertices and explain optimal solution and its context. Know how SPLTV differs from two-variable inequality optimization.
+M5. Formulate constraints, find a feasible region, evaluate vertices and explain optimal solution and its context. Do NOT revise SPLTV for the actual exam, per 23 Nov teacher update; focus on two-variable inequality optimization, shading, feasible regions and objective extrema.
 M6. Present **essay solutions**: define, substitute, show algebra, state restrictions, conclude and verify.
 
 ### Bahasa Indonesia

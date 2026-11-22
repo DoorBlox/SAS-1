@@ -1,9 +1,12 @@
 # SAS-1 Mathematics | START HERE
 
-**Class X-6 Pre-IB | 22 November 2026 | Author: original tutoring notes.** This is not an official IB DP guide or an official school marking scheme.
+**Class X-6 Pre-IB | 23 November 2026 | Author: original tutoring notes.** This is not an official IB DP guide or an official school marking scheme.
 
 
 > **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
+
+
+> **LATEST DIRECT TEACHER/LEARNER UPDATE, 23 November 2026:** SPLTV **will NOT appear on the real SAS Mathematics test**. This supersedes the 13-page school master kisi-kisi entry mentioning SPLTV. Treat SPLTV and advanced matrices as OPTIONAL/ARCHIVE, not active exam preparation. **Linear programming / SPtLDV has NOT been excluded**, so keep its active teaching priority. Do not conflate a three-variable linear system with two-variable feasible-region optimization.
 
 ## The promise: TEACH ENTIRE MATH SYLLABUS BEFORE TESTING
 The learner specifically requested: **Do not put me straight into diagnostic questions or demand I solve something when I do not know the topic.** Every subsequent lesson must follow this exact teaching order:
@@ -21,7 +24,7 @@ The chapters are written to be revisited independently:
 - [01: Exponents, surds, exponential equations and graphs](MATH_01_EXPONENTS_SURDS.md)
 - [02: Logarithms and restrictions](MATH_02_LOGARITHMS.md)
 - [03: Quadratics, Vieta, graphs and optimization](MATH_03_QUADRATICS.md)
-- [04: Straight-line inequalities and linear programming](MATH_04_LINEAR_PROGRAMMING.md)
+- [04: Straight-line inequalities and linear programming](MATH_04_LINEAR_PROGRAMMING.md) — skip SPLTV section for this exam
 - [05: Teacher paper and regular-practice crosswalk](MATH_05_PAPER_CROSSWALK.md)
 - [06: Applications, IB command terms and decision tree](MATH_06_CROSS_TOPIC_APPLICATIONS.md)
 

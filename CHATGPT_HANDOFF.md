@@ -1,9 +1,12 @@
 # CHATGPT HANDOFF — SAS-1 (READ FIRST)
 
-**Updated:** 22 November 2026 (Asia/Jakarta), after learner changed sequencing to TEACH ENTIRE SYLLABUS BEFORE ANY TESTS. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
+**Updated:** 23 November 2026 (Asia/Jakarta), after student clarified SPLTV excluded from the real SAS and asked deep conceptual questions about quadratics. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
 
 
 > **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
+
+
+> **LATEST DIRECT TEACHER/LEARNER UPDATE, 23 November 2026:** SPLTV **will NOT appear on the real SAS Mathematics test**. This supersedes the 13-page school master kisi-kisi entry mentioning SPLTV. Treat SPLTV and advanced matrices as OPTIONAL/ARCHIVE, not active exam preparation. **Linear programming / SPtLDV has NOT been excluded**, so keep its active teaching priority. Do not conflate a three-variable linear system with two-variable feasible-region optimization.
 
 ## CRITICAL: user instructions reaffirmed 22 Nov — read before tutoring
 
@@ -67,6 +70,9 @@ The learner has Q1 8/10 and Q2 6/10 under tutor rubrics; **do not cold-retest be
 
 ## Immediate next action
 **TEACH now**. Diagnostic **Math Q1 completed** correctly: disguised quadratic exponential equation, both \`x=0,2\` found with correct steps. Tutor rubric **8/10**, missing explicit \`a=2^x>0\` statement and original-equation verification. **Next: Math Q2** (graph of \`f(x)=3^(x-2)-4\`: graph transformations, asymptote, domain, range). Ask for student's explanation before revealing final. Then Math Q3 (log domain), Q4 (Vieta), Q5 (linear programming), and Indonesian TBEM Q6. Do not delay actual teaching while collecting more files.
+
+## Latest learner questions and conceptual teaching (23 Nov, ~02:52 WIB)
+User specifically asked: (1) why the factor form `a(x-α)(x-β)=0` follows from roots; (2) whether the leading coefficient `a` still matters after expansion, vs monic `t²-(u+v)t+uv=0`; (3) how to divide by `a` and factorise, including non-monic coefficients; (4) why the lifeguard area problem uses completing the square / how to choose a method after finding `A(x)`; (5) explicitly stated **NO SPLTV on actual exam**. These were explained in chat with factor theorem, coefficient comparison, divide-to-monic vs keeping original polynomial, split-the-middle-term, and max -> vertex via square/axis/symmetry. **Do not test until they explicitly opt in.**
 
 ## Live session state — full teaching phase
 - User expressly asked: 'teach me everything all the materials first then well get to testing or if i have any questions'. Thus **NO STUDENT TESTING AT ALL** until the teaching phase has covered entire Mathematics syllabus and student opts in.

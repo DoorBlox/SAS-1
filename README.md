@@ -9,6 +9,8 @@
 
 > **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
 
+**MATH LOGARITHMS — EXAM PRIORITY:** [All log laws, argument/base domain traps and five fully worked teacher-style examples](guides/MATH_LOG_LAWS_QUICK_REFERENCE.md). The master math cheat sheet now has a **front-page log formula table**.
+
 ## Quick navigation
 
 | What | Where |

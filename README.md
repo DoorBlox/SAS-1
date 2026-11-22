@@ -16,7 +16,9 @@
 | How each teaching session works | [STUDY_PROTOCOL.md](STUDY_PROTOCOL.md) |
 | Verified references and missing materials | [SOURCE_REGISTRY.md](SOURCE_REGISTRY.md) |
 | Current mastery and error log | [MASTERY_TRACKER.md](MASTERY_TRACKER.md) |
-| Mathematics first lesson | [lessons/MATH_01.md](lessons/MATH_01.md) |
+| Mathematics teach-first revision guide | [guides/MATH_00_START_HERE.md](guides/MATH_00_START_HERE.md), [guides/MATH_01_EXPONENTS_SURDS.md](guides/MATH_01_EXPONENTS_SURDS.md) |
+| Authentic IB guide and textbook crosswalk | [guides/IB_MATHEMATICS_ALIGNMENT.md](guides/IB_MATHEMATICS_ALIGNMENT.md) |
+| All teacher papers, additional Math Drive files and Pearson Scribd | [guides/MATHEMATICS_SOURCE_MAP.md](guides/MATHEMATICS_SOURCE_MAP.md) |
 | Bahasa Indonesia first lesson | [lessons/INDONESIAN_01.md](lessons/INDONESIAN_01.md) |
 | Starting diagnostic / answers | [practice/DIAGNOSTIC_2026-11-22.md](practice/DIAGNOSTIC_2026-11-22.md) |
 | Verified IB/Pearson book crosswalk | [BOOK_CROSSWALK.md](BOOK_CROSSWALK.md) |
@@ -43,7 +45,7 @@ Both supplied Drive folders are now accessible. The first contains 20 PDFs in Ma
 
 1. Load the handoff, source registry, and mastery tracker.
 2. Check the local date and which exams remain. Prioritize imminent subjects while doing *small spaced reviews* of Arabic and later exams.
-3. Teach a topic in logical increments: objective → intuitive explanation → worked example → learner attempt → diagnostic feedback → transfer problem.
+3. **TEACH FIRST:** objective → intuition/why → derive rules → complete revision notes and memorisation → IB/teacher-marked worked examples → ONLY THEN an optional learner question and detailed feedback.
 4. After any materially new sources, verified progress, or a completed lesson, update the source matrix, progress and handoff in GitHub. Avoid undocumented claims of completed learning.
 
 _Last initialized: 2026-11-22 Asia/Jakarta._

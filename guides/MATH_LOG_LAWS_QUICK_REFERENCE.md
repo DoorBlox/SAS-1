@@ -6,9 +6,9 @@ This reference complements [the complete logarithms lesson](MATH_02_LOGARITHMS.m
 
 ## 1. Absolute foundation
 
-\`\`\`math
+```math
 \boxed{\log_a b=c\iff a^c=b}
-\`\`\`
+```
 
 Valid real logarithm: **base $a>0$, $a\ne1$; argument $b>0$**. The *result* $c$ may be negative, zero, or fractional:
 - $\log_2 8=3$; $\log_3(1/9)=-2$; $\log_9 3=1/2$.
@@ -53,65 +53,65 @@ If $M=a^p$ and $N=a^q$, then $MN=a^{p+q}$, $M/N=a^{p-q}$ and $M^r=a^{pr}$. Takin
 ## 4. Complete original worked examples aligned to actual teacher questions
 
 ### Teacher IB Prep Q8 — quotient/product rules
-\`\`\`math
+```math
 \log_3x-\log_34=3+\log_35
-\`\`\`
+```
 Domain **$x>0$**. Since $3=\log_3 27$, rewrite:
-\`\`\`math
+```math
 \log_3(x/4)=\log_3(27\cdot5)=\log_3 135
-\`\`\`
+```
 Then $x/4=135\Rightarrow\boxed{x=540}$.
 
 ### Teacher IB Prep Q18(b) — log to quadratic, reject extraneous root
-\`\`\`math
+```math
 \log_2x+\log_2(x-2)=3
-\`\`\`
+```
 Domain **$x>2$**. Combine: $\log_2[x(x-2)]=3$, then
-\`\`\`math
+```math
 x^2-2x-8=(x-4)(x+2)=0
-\`\`\`
+```
 Candidates $x=4,-2$; reject **$-2$** because $x>2$. **$x=4$** is the only solution.
 
 ### Teacher IB Prep Q6 — different exponential bases, express using log 3 and log 5
-\`\`\`math
+```math
 25^{x+3}=15^{2x}
 \iff 5^{2x+6}=3^{2x}5^{2x}
 \iff 5^6=3^{2x}.
-\`\`\`
+```
 Take a logarithm:
-\`\`\`math
+```math
 6\log5=2x\log3\quad\Longrightarrow\quad
 \boxed{x=\frac{3\log5}{\log3}}.
-\`\`\`
+```
 **Tip:** simplify shared prime factors *before* taking logs.
 
 ### Teacher IB Prep Q17 — express using $p$ and $q$
 Given $\log_a2=p$ and $\log_a3=q$ with $a>0,\ a\ne1$:
-\`\`\`math
+```math
 \begin{aligned}
 \log_a12&=\log_a(2^2\cdot3)=2p+q,\\
 \log_a(27/4)&=\log_a(3^3/2^2)=3q-2p,\\
 \log_a\sqrt{18a}&=\tfrac12\log_a(2\cdot3^2\cdot a)=\tfrac12(p+2q+1).
 \end{aligned}
-\`\`\`
+```
 
 ### Teacher IB Prep Q7 — logarithmic telescoping product
-\`\`\`math
+```math
 \log_{63}64\cdot\log_{62}63\cdots\log_2 3
 =\frac{\ln64}{\ln63}\frac{\ln63}{\ln62}\cdots\frac{\ln3}{\ln2}
 =\frac{\ln64}{\ln2}=\boxed{6}.
-\`\`\`
+```
 
 ### Teacher formative Q24 — domain excludes negative quadratic root
-\`\`\`math
+```math
 \log_5(x-2)+\log_5(2x+1)=2
-\`\`\`
+```
 Domain **$x>2$**. Multiply:
-\`\`\`math
+```math
 (x-2)(2x+1)=25
 \iff 2x^2-3x-27=0
 \iff (2x-9)(x+3)=0.
-\`\`\`
+```
 Candidates $x=9/2,-3$; discard $-3$. Answer **$x=9/2$**.
 
 ## 5. Domain examples — understand before solving
@@ -127,10 +127,10 @@ Candidates $x=9/2,-3$; discard $-3$. Answer **$x=9/2$**.
 **Logarithmic function $y=\log_a x$:** domain $(0,\infty)$, range $\mathbb R$, vertical asymptote $x=0$. Increasing when $a>1$, decreasing for $0<a<1$. For $y=\log_a(x-h)+k$ (positive base $\ne1$), domain $x>h$ and vertical asymptote $x=h$; horizontal shift **does not** change the full real range.
 
 **Log inequalities:**
-\`\`\`math
+```math
 a>1:\ \log_a u>\log_a v \iff u>v,\qquad
 0<a<1:\ \log_a u>\log_a v\iff u<v,
-\`\`\`
+```
 provided $u,v>0$. The inequality reverses for a base between 0 and 1.
 
 ## 6. Rapid exam recognition

@@ -23,6 +23,7 @@ The chapters are written to be revisited independently:
 - [03: Quadratics, Vieta, graphs and optimization](MATH_03_QUADRATICS.md)
 - [04: Straight-line inequalities and linear programming](MATH_04_LINEAR_PROGRAMMING.md)
 - [05: Teacher paper and regular-practice crosswalk](MATH_05_PAPER_CROSSWALK.md)
+- [06: Applications, IB command terms and decision tree](MATH_06_CROSS_TOPIC_APPLICATIONS.md)
 
 After each chapter DURING TEACHING: **read and understand the complete explanation and worked examples**, and feel free to interrupt with questions. Memory cues may be given, but do NOT require the learner to answer anything until all four major Maths units have been taught and the learner has opted in to practice.
 

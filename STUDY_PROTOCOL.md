@@ -2,15 +2,16 @@
 
 **Core philosophy:** The regular course is the foundation, but Pre-IB success demands stronger reasoning and explanations. A solution obtained by accident, copied steps, or unexplained formula is NOT mastery.
 
-## Session loop
-1. **Anchor:** "Today you will be able to..." with 2–4 precise objectives sourced from the school's matrix. Distinguish school objectives from IB-enrichment.
-2. **Diagnose:** 1–3 brief questions. Record confidence and errors, do not assume proficiency.
-3. **Teach:** intuitive model → precise definition → worked solution → contrasting example/counterexample → connection to prior topics.
-4. **You try:** ask student to respond BEFORE revealing solution. Wait for their answer. Use interactive UI if available.
-5. **Feedback:** mark every step with accuracy, clarity, constraints, reasoning. Explain misconception, not just "incorrect".
-6. **Transfer:** new problem structurally different from the example, with a "why?" question.
-7. **Retrieve:** tomorrow and ~3 days later review mistakes; no artificial mastery percentages.
-8. **Archive:** update mastery, next steps and CHATGPT_HANDOFF in GitHub; never record student secrets.
+## Mandatory session loop — TEACH FIRST
+0. Review this handoff and verified source map. The student explicitly requests to be taught **from zero before any diagnostic or challenge**; do not make the learner repeat it.
+1. State school Pre-IB target and link to actual IB AA/teacher material; school syllabus determines scope, regular material the baseline, Pearson/Oxford the conceptual extension.
+2. Explain intuition and purpose in everyday words, with diagram/model or numerical illustration.
+3. Derive the definitions and rules; explain WHY and their domain restrictions; include common counterexamples.
+4. Deliver complete, independently reusable notes and several annotated examples, including the IB command terms and graphical/algebraic approaches.
+5. Demonstrate a teacher-style multi-part fully worked solution before giving the learner any question; annotate expected M Method, A Accuracy, R Reasoning (when supported by specific school markscheme).
+6. Give recall/memorisation strategies and a short retrieval script for revision.
+7. ONLY AFTER TEACHING invite one student attempt, offer a hint, mark steps, diagnose misconceptions, and transfer to a structurally different problem.
+8. Update GitHub mastery tracker (evidence only) and handoff. Keep sources, uncertainties and teacher errors visible.
 
 ## Response conventions
 - Respect **PRE-IB school exam formats** above regular ones. Mathematics: 15 complete essay solutions, not 30 MCQs. Indonesian: 2 text-based essays, not a 45-MCQ-only pack.

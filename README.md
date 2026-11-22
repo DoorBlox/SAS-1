@@ -6,6 +6,9 @@
 
 > **START EVERY NEW CHAT:** Read [CHATGPT_HANDOFF.md](CHATGPT_HANDOFF.md), [SYLLABUS_MATRIX.md](SYLLABUS_MATRIX.md), and [DAY_BY_DAY_PLAN.md](DAY_BY_DAY_PLAN.md). Respect the source-confidence labels and [STUDY_PROTOCOL.md](STUDY_PROTOCOL.md). Continue teaching, not just generating plans.
 
+
+> **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
+
 ## Quick navigation
 
 | What | Where |
@@ -55,7 +58,7 @@ Both supplied Drive folders are now accessible. The first contains 20 PDFs in Ma
 
 1. Load the handoff, source registry, and mastery tracker.
 2. Check the local date and which exams remain. Prioritize imminent subjects while doing *small spaced reviews* of Arabic and later exams.
-3. **TEACH FIRST:** objective → intuition/why → derive rules → complete revision notes and memorisation → IB/teacher-marked worked examples → ONLY THEN an optional learner question and detailed feedback.
+3. **TEACH FIRST:** objective → intuition/why → derive rules → complete revision notes and memorisation → IB/teacher-marked worked examples → only AFTER THE FULL SYLLABUS and learner's opt-in, begin optional questions and detailed feedback.
 4. After any materially new sources, verified progress, or a completed lesson, update the source matrix, progress and handoff in GitHub. Avoid undocumented claims of completed learning.
 
 _Last initialized: 2026-11-22 Asia/Jakarta._

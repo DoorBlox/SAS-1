@@ -6,7 +6,7 @@
 | Uploaded second copy `KISI-KISI SAS 20262027_KELAS 10(1).pdf` | User attachment | Received, apparently duplicated; not separately content-compared | Do not silently assume identical if updated later |
 | Timetable image `WhatsApp Image 2026-11-21 at 15.33.57.jpeg` | User attachment | **Visually inspected** | Dates/sessions; grade X only |
 | Drive SAS folder | https://drive.google.com/drive/folders/1zlM3WMt0GfW8NpDCw_xT62toZRq97A8k | **Listed successfully** | Source index |
-| Drive second requested folder | https://drive.google.com/drive/u/1/folders/1mKrMu5LOJxAXdxfTIBSzS70EHoHreLva | **Connector returned 404 for both connected accounts** | Need share/access; no content reviewed |
+| First Drive book collection | https://drive.google.com/drive/folders/1mKrMu5LOJxAXdxfTIBSzS70EHoHreLva | **Accessible 22 Nov, 20 PDF inventory completed**; chapter text inspected selectively | See BOOK_CROSSWALK.md; no wholesale copying |
 | Combined Regular+IB school guide | https://docs.google.com/document/d/1iPWXQVfCpukEHjvjZBR43EwazsQbJnciLXKWTJTdV1w/edit | **Read** | Cross-check non-Pre-IB subjects |
 | Per-subject school guidance folder | https://drive.google.com/drive/folders/1krgv6DSxgaesGFhEoeMvf4eq5TzpLMuK | **Listed** | Individual subject source index |
 | Regular Math 30 questions | https://drive.google.com/file/d/18pImUmCt-GtzJiB397JJFy5g_G1-Ac0b/view | **Read text; formatting may lose math notation** | Foundation only; NOT Pre-IB exam format |
@@ -26,17 +26,23 @@
 | Akidah book | https://drive.google.com/file/d/15SsC4HmX5HGCwvY0wvFcRgQGPjEKk5AX/view | **Text excerpt retrieved** | Source for later lessons |
 | KAI modules | Learning-source folder | **Listed** | Get detailed topic mapping before teaching |
 | IB subject guides | https://www.ibo.org/programmes/diploma-programme/curriculum/ | General reference, subject-specific page/edition not mapped | Enrichment, **NOT** school Pre-IB syllabus |
-| Pearson books | Exact edition/access pending | **Not verified/read** | Ask for title, edition and chapter scans/authorized files |
+| Pearson books | First Drive subject folders | **Named titles/editions identified**; Pearson Physics 2023 text & contents inspected, Pearson Math 2019 text extraction empty | See BOOK_CROSSWALK.md; ask teacher for actually assigned chapters |
 | ibdocs guide and books directory | https://ibdocs.re/subject-guides ; https://ibdocs.re/books | Links supplied; **not verified as consulted textbooks** | Navigation only; respect copyright |
 | User's school handouts / teacher PowerPoints | Not yet uploaded to this task | **Missing** | Request only specifically needed items |
 
 ### Teacher material wish list, priority order
 1. **Math Pre-IB:** teacher PPT and full formative/sumatif papers, especially linear programming.
 2. **Bahasa Indonesia Pre-IB:** text passages used in class, essay exemplars and rubric (TBEM).
-3. **Arabic:** units, vocabulary list, Arabic reader/textbook, teacher worksheets and actual question format.
+3. **Arabic:** units, vocabulary list, Arabic reader/textbook, teacher worksheets and actual question format (NOT present in the first Drive science/maths collection).
 4. **Physics/Fikih:** recent worksheets and revision notes for 24 Nov.
 5. **Biology/English Pre-IB:** exact Pearson editions, assigned chapters & teacher's slides.
 6. **History/Pancasila/KAI/Seminar:** exam description and topic scope absent from school master.
 
 ### Confidentiality
 This GitHub repo is **public**. Do not mirror teacher PPT files, full commercial book PDFs, copyrighted samples or sensitive learner records to it without permission. Instead store file names, authorized links, objective references and independently written learning content.
+
+## 22 November access update
+- Previous connector 404 on the first folder is **resolved**, under both connected accounts.
+- Read the first folder and all directly nested subject folders; Biology modules and reference folders also enumerated. Exactly 20 PDF items; one Physics guide reports zero bytes and may need re-upload.
+- Text extraction succeeded for Oxford IB Prepared AA 2021, Pearson Physics 2023, Oxford Chemistry Study Guide 2023, and Oxford IB Prepared Biology reference extract. Large Pearson Maths & Biology returned no readable text from the Drive text fetch, so their detailed objectives are still pending.
+- See **BOOK_CROSSWALK.md** for file-by-file links, TOC page mappings and gaps.

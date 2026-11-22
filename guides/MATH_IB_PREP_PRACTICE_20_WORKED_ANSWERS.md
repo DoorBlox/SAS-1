@@ -36,7 +36,7 @@ Take logs: $6\log5=2x\log3\Rightarrow\boxed{x=3\log5/\log3}$.
 
 ## Q7 — Telescoping logarithmic chain
 $p=\log_{63}64\,\log_{62}63\cdots\log_2 3$.
-Change base and cancel consecutive $\ln$ factors: $p=\ln64/\ln2=\log_2 64=\boxed6$.
+Change base and cancel consecutive $\ln$ factors: $p=\ln64/\ln2=\log_2 64=\boxed{6}$.
 
 ## Q8 — Log equation
 $\log_3x-\log_34=3+\log_35$. Domain $x>0$.
@@ -53,7 +53,7 @@ Original roots $\alpha,\beta$ of $x^2-6x+3=0$.
 ## Q10 — Parameter-discriminant condition
 $f(x)=3px^2+(3p-4)x+p-2$ with $p\in\mathbb Q,\ p\ne0$.
 (a) $\Delta=(3p-4)^2-4(3p)(p-2)=\boxed{16-3p^2}$.
-(b) Distinct real quadratic roots require $\Delta>0$: $-4/\sqrt3<p<4/\sqrt3$, **and $p\ne0$, $p\in\mathbb Q$**. Thus $\boxed{p\in\mathbb Q\cap[(-4/\sqrt3,0)\cup(0,4/\sqrt3)]}$, where brackets only group the union (each endpoint is excluded).
+(b) Distinct real quadratic roots require $\Delta>0$: $-4/\sqrt3<p<4/\sqrt3$, **and $p\ne0$, $p\in\mathbb Q$**. Thus $\boxed{p\in\mathbb Q,\quad -4/\sqrt3<p<4/\sqrt3,\quad p\ne0}$, and both endpoints are excluded.
 
 ## Q11 — Vertex and range
 $3x^2+12x+5=3[(x+2)^2-4]+5=\boxed{3(x+2)^2-7}$.
@@ -81,7 +81,7 @@ $h(t)=-5t^2+30t+35$, physical time $t\ge0$.
 
 ## Q15 — Plot the quadratic on the ACTUAL blank grid (page 3)
 $f(x)=\tfrac14x^2+bx+c$, axis $x=2$, one root $(-2,0)$.
-(a) Draw line $x=\boxed2$.
+(a) Draw line $x=\boxed{2}$.
 (b)(i) Second root is reflected through $x=2$: $B=\boxed{(6,0)}$.
 (b)(ii) Factor $f(x)=\tfrac14(x+2)(x-6)=\tfrac14x^2-x-3$, hence $\boxed{b=-1,\ c=-3}$.
 (c) Label A(-2,0) and B(6,0).

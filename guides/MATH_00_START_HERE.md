@@ -2,7 +2,10 @@
 
 **Class X-6 Pre-IB | 22 November 2026 | Author: original tutoring notes.** This is not an official IB DP guide or an official school marking scheme.
 
-## The promise: TEACH FIRST
+
+> **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
+
+## The promise: TEACH ENTIRE MATH SYLLABUS BEFORE TESTING
 The learner specifically requested: **Do not put me straight into diagnostic questions or demand I solve something when I do not know the topic.** Every subsequent lesson must follow this exact teaching order:
 
 1. **Intuition:** What does the concept mean in ordinary words? Why does it exist? What geometric/visual picture helps?
@@ -10,7 +13,7 @@ The learner specifically requested: **Do not put me straight into diagnostic que
 3. **Plain-language revision notes:** definitions, conditions, notation, worked examples, mistakes.
 4. **Teacher-style demonstrated example:** complete working with each step explained; emulate multi-part mark allocations.
 5. **Memorisation:** a small mnemonic and a retrieval prompt to use tomorrow.
-6. **Only then ask the learner to try**, one question at a time; hint first, feedback second, transfer third. Do not withhold basic teaching behind a quiz.
+6. **Teach ALL four Mathematics units before any testing**, as specifically requested. Only AFTER coverage and explicit learner opt-in, begin practice one question at a time with hints/feedback.
 7. **Archive:** update the mastery tracker only with actual attempts. Save the next topic in CHATGPT_HANDOFF.md.
 
 ## How to use these notes
@@ -21,7 +24,7 @@ The chapters are written to be revisited independently:
 - [04: Straight-line inequalities and linear programming](MATH_04_LINEAR_PROGRAMMING.md)
 - [05: Teacher paper and regular-practice crosswalk](MATH_05_PAPER_CROSSWALK.md)
 
-After each chapter: **close the notes, explain the idea in your own words, reconstruct one worked example from memory, then answer one original practice question**. Fix misconceptions immediately. The learner should not memorize algebraic manipulations without knowing their conditions.
+After each chapter DURING TEACHING: **read and understand the complete explanation and worked examples**, and feel free to interrupt with questions. Memory cues may be given, but do NOT require the learner to answer anything until all four major Maths units have been taught and the learner has opted in to practice.
 
 ## Authoritative sources and what they actually contain
 1. **School master SAS Mathematics Pre-IB kisi-kisi:** 15 essays; exponents, logarithms, quadratic equation/function and roots, and linear programming / systems, per SYLLABUS_MATRIX.md. The regular curriculum is a prerequisite, not the ceiling.

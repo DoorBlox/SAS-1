@@ -1,6 +1,24 @@
 # CHATGPT HANDOFF — SAS-1 (READ FIRST)
 
-**Updated:** 22 November 2026 (Asia/Jakarta), after Diagnostic Q2 marking. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
+**Updated:** 22 November 2026 (Asia/Jakarta), after teacher papers, new 12-file Maths folder, IB guide, Oxford/Pearson review. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
+
+## CRITICAL: user instructions reaffirmed 22 Nov — read before tutoring
+
+**User has repeatedly objected to being given a quiz before being taught. This is a standing instruction.** Start EACH new topic from zero: intuition, why the concept works, derivation, graphical interpretation, definitions and restrictions, complete reusable revision notes, memorable cues, teacher-calibrated IB-style worked solutions with method/accuracy/reasoning, and ONLY THEN an optional learner attempt. Do not default to a diagnostic.
+
+**IB style is not a label.** Actually align to (a) school's Pre-IB SAS objectives and teacher formative, (b) official IB Mathematics AA guide (first assessment 2021; updated November 2024, 101-page uploaded PDF), (c) Oxford IB Prepared AA body-read relevant sections, and (d) Pearson AA HL 2019 textbook chapter references. Regular student CCC practice is the minimum prerequisite, not the Pre-IB ceiling. Use IB command terms and M/A/R marking where appropriate. Pre-IB school exam is not an official IB DP exam.
+
+**New audit documents:** [Authentic IB AA/Pearson/Oxford alignment](guides/IB_MATHEMATICS_ALIGNMENT.md) and [All supplied Maths sources including new Drive folder](guides/MATHEMATICS_SOURCE_MAP.md). Read these BEFORE further maths study or requesting additional materials.
+
+**New teacher materials:** 15-question *FORMATIVE Quadratic Equations and Functions* with a 92-mark DOCX markscheme; 20-multipart/160-mark SAS IB Prep practice paper; 32-item regular CCC practice; linear inequalities LKPD. New Drive folder https://drive.google.com/drive/folders/1QAmOp9DNRUlLAXJPW-EI6BtqXERIEV1g contains 12 Maths files incl. exponent/log formative, quadratic entrance-bank, three extra exponent/log problem banks, SPLTV LKPD, DIGIBOOK SPLTV/SPtLDV, and duplicate teacher/CCC material. Do not ask for these again.
+
+**Textbooks:** Official IB AA guide p. 30–32 SL1.5/1.7 exponent/log; p.39 SL2.6/2.7 quadratics; pp.40–41 SL2.9–2.11 graphs/transformations; pp.35–36 AHL1.16 systems of 3 equations; p.42 AHL2.12 polynomial root sums/products. Oxford IB Prepared AA actual text read: §1.3 pp.13–16 exponent/log; §2.3 from p.49 quadratics; §2.4 from p.60 transformations. Pearson AA HL 2019: publisher sample and British Library table of contents confirm Ch.1 basic algebra and linear systems, Ch.2 Functions, Ch.4 Exponential and logarithmic functions. User supplied Scribd https://www.scribd.com/document/770936418/Pearson-Mathematics-for-the-IB-Diploma-Analysis-and-Approaches-HL ; online preview intro and Ch.1 inspected. Full Pearson 335MB Drive text extraction remains empty; do NOT claim full book read.
+
+**Source QA:** teacher quadratic Q1 x²−2x+5 has Δ=-16, so ordering real roots is impossible; teacher Q7 asks for a maximum product with fixed real-number difference, but no maximum exists; Q9 graph axis labels swapped. Markscheme itself notes these flaws. Do not silently teach invalid assumptions.
+
+**What's still needed:** No further MATH syllabus is required; school master and genuine IB guide already in hand. Teacher clarification about actual calculator policy/last-minute format changes may be useful but not needed to begin. For later exams Arabic teacher vocabulary/grammar, Bahasa Indonesia teacher model/rubric and Physics/Biology details are still partially missing.
+
+**NEXT ACTION:** Stop indexing and teach! Complete chapter from zero with an IB-aligned worked example, not an opening quiz. The exponents lesson and saved notes exist in guides/MATH_01_EXPONENTS_SURDS.md. Follow with logarithms, quadratics/Vieta/graphs, SPLTV/linear programming; reserve tomorrow-morning relevance for Indonesian TBEM too. Always give a study guide and memorisation/retrieval method. Do not promise async work.
 
 ## Non-negotiable user decisions
 - **Teach the student.** Do not just plan, make PDFs, or dump answers. Teach concepts interactively, make the learner attempt questions, mark reasoning, revisit errors.
@@ -39,6 +57,10 @@ PRE-IB Math (15 essay): exponents; logarithms; quadratic equations/functions inc
 PRE-IB Indonesian (2 essay): biography structure/style; observation report objectivity/evidence/conclusion; ethos/pathos/logos; TBEM = Topik-Bukti-Elaborasi-Makna.
 PRE-IB Biology (40 MC + 5 essay): biodiversity, classification and determination keys, bacteria, viruses.
 PRE-IB English: descriptive/procedure/narrative texts, prescribed grammar; 50 MC + blog/magazine article 200–250 words (verify scoring rubric).
+
+## Older Q1/Q2 checkpoint (superseded by TEACH-FIRST rule)
+
+The learner has Q1 8/10 and Q2 6/10 under tutor rubrics; **do not cold-retest before properly teaching the topic.**
 
 ## Immediate next action
 **TEACH now**. Diagnostic **Math Q1 completed** correctly: disguised quadratic exponential equation, both \`x=0,2\` found with correct steps. Tutor rubric **8/10**, missing explicit \`a=2^x>0\` statement and original-equation verification. **Next: Math Q2** (graph of \`f(x)=3^(x-2)-4\`: graph transformations, asymptote, domain, range). Ask for student's explanation before revealing final. Then Math Q3 (log domain), Q4 (Vieta), Q5 (linear programming), and Indonesian TBEM Q6. Do not delay actual teaching while collecting more files.

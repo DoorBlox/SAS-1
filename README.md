@@ -22,6 +22,7 @@
 | Mathematics teach-first revision guide | [guides/MATH_00_START_HERE.md](guides/MATH_00_START_HERE.md), [guides/MATH_01_EXPONENTS_SURDS.md](guides/MATH_01_EXPONENTS_SURDS.md) |
 | Authentic IB guide and textbook crosswalk | [guides/IB_MATHEMATICS_ALIGNMENT.md](guides/IB_MATHEMATICS_ALIGNMENT.md) |
 | All teacher papers, additional Math Drive files and Pearson Scribd | [guides/MATHEMATICS_SOURCE_MAP.md](guides/MATHEMATICS_SOURCE_MAP.md) |
+| **Complete Pre-IB Bahasa Indonesia: TBEM, 42 Authorial Choices, LHO/Biografi, 2 model essays** | [guides/INDONESIAN_PREIB_TBEM_AUTHORIAL_CHOICES_2026.md](guides/INDONESIAN_PREIB_TBEM_AUTHORIAL_CHOICES_2026.md) |
 | Bahasa Indonesia first lesson | [lessons/INDONESIAN_01.md](lessons/INDONESIAN_01.md) |
 | Starting diagnostic / answers | [practice/DIAGNOSTIC_2026-11-22.md](practice/DIAGNOSTIC_2026-11-22.md) |
 | Verified IB/Pearson book crosswalk | [BOOK_CROSSWALK.md](BOOK_CROSSWALK.md) |

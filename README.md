@@ -20,6 +20,7 @@
 | Bahasa Indonesia first lesson | [lessons/INDONESIAN_01.md](lessons/INDONESIAN_01.md) |
 | Starting diagnostic / answers | [practice/DIAGNOSTIC_2026-11-22.md](practice/DIAGNOSTIC_2026-11-22.md) |
 | Verified IB/Pearson book crosswalk | [BOOK_CROSSWALK.md](BOOK_CROSSWALK.md) |
+| Teacher slides / materials intake | [MATERIALS_INTAKE.md](MATERIALS_INTAKE.md) |
 
 ## Required precedence
 

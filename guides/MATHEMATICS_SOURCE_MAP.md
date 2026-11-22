@@ -1,5 +1,5 @@
 # Pre-IB Mathematics: full user-supplied source inventory and objectives crosswalk
-**Checked 22 Nov 2026.** Sources in the Drive folders are teacher/student-provided reference material, *not* files to redistribute in this public GitHub repo.
+**Checked 23 Nov 2026.** Sources in the Drive folders are teacher/student-provided reference material, *not* files to redistribute in this public GitHub repo.
 
 ## Folder A — IB textbooks (Math/Physics/Biology/Chemistry)
 https://drive.google.com/drive/folders/1mKrMu5LOJxAXdxfTIBSzS70EHoHreLva
@@ -32,6 +32,9 @@ Folder listed **12 files**. Readable text retrieved for key files as noted:
 10. **[LATIHAN SOAL SAS EKSPONEN & LOGARITMA FINAL](https://drive.google.com/file/d/1pVhjwsYKHb65aEd_Whoa9MlYUaSyWcE3/view)**: duplicate regular CCC 32-MCQ practice.
 11. **[LKPD SPtLDV](https://drive.google.com/file/d/16GbZq1mnp6tsFg9e3Z49ru--Yph9Cbpn/view)**: duplicate of assigned feasible region worksheet.
 12. **[Practice_Paper_SAS_Mathematics_IB_Prep_V1](https://drive.google.com/file/d/1_IjZ8S9ibToEi6L7fzF01yNFqX0FOUh2/view)**: duplicate of uploaded 20 multipart / 160-mark teacher-style paper.
+
+
+> **LATEST DIRECT TEACHER/LEARNER UPDATE, 23 November 2026:** SPLTV **will NOT appear on the real SAS Mathematics test**. This supersedes the 13-page school master kisi-kisi entry mentioning SPLTV. Treat SPLTV and advanced matrices as OPTIONAL/ARCHIVE, not active exam preparation. **Linear programming / SPtLDV has NOT been excluded**, so keep its active teaching priority. Do not conflate a three-variable linear system with two-variable feasible-region optimization.
 
 ## Source-to-SAS objective matrix
 | SAS cluster | School/teacher materials | IB/Pearson/Oxford anchoring | What to actually teach |

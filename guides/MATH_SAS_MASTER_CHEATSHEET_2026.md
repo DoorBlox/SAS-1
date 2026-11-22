@@ -6,6 +6,31 @@
 
 **LATEST TEACHER UPDATE:** **NO SPLTV ON THE REAL SAS**. Linear **inequalities** / graphing feasible regions / linear programming are **still in scope** (not reported excluded). Do not study matrices, row reduction or solving three-variable systems for this Math exam.
 
+## LOGARITHMS — FRONT-PAGE MEMORISATION (high exam priority)
+
+**[Open the dedicated COMPLETE log-laws + worked-examples sheet](MATH_LOG_LAWS_QUICK_REFERENCE.md)** · [Full chapter from zero](MATH_02_LOGARITHMS.md)
+
+**Assume base $a>0$, $a\ne1$, arguments $M,N>0$ unless specified.** These are not optional: several teacher IB Prep and formative questions rely on them.
+
+| What to memorise | Law |
+|---|---|
+| Inverse definition | $\log_a M=t\iff a^t=M$ |
+| Product | $\log_a(MN)=\log_aM+\log_aN$ |
+| Quotient | $\log_a(M/N)=\log_aM-\log_aN$ |
+| Power | $\log_a(M^r)=r\log_aM$ |
+| Identity values | $\log_a1=0$, $\log_a a=1$ |
+| Inverse cancellation | $\log_a(a^x)=x$, $a^{\log_aM}=M$ |
+| Change of base | $\log_aM=\frac{\ln M}{\ln a}$ |
+| Reciprocal / chain | $\log_a b=\frac1{\log_b a}$, $\log_a b\log_b c=\log_a c$ |
+| Reciprocal argument | $\log_a(1/M)=-\log_aM$ |
+| Powered base | $\log_{a^k}(M^n)=\frac nk\log_aM$ for $k\ne0$ |
+
+**Critical domain:** $\log_{h(x)} g(x)$ requires $h(x)>0$, $h(x)\ne1$, and $g(x)>0$. **No** product/sum law for $\log_a(M+N)$. If $0<a<1$, log **inequalities reverse** compared with arguments.
+
+**Teacher-pattern shortcuts:** Q8 combine logs; Q18(b) check domain then solve quadratic; Q6 factor 25 and 15 into prime bases; Q17 express quantities using $\log_a 2$ and $\log_a3$; Q7 use telescoping product. Their complete derivations are in the dedicated sheet.
+
+---
+
 **Readability key:** **MEMORIZE** means reconstruct confidently; **CHECK** is a compulsory validity condition; **OPTIONAL** is extension for tough teacher questions. Exact original questions remain in the student's permissioned Drive collection. All content here is original explanations/identities.
 
 ---

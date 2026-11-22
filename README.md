@@ -19,7 +19,7 @@
 | Mathematics first lesson | [lessons/MATH_01.md](lessons/MATH_01.md) |
 | Bahasa Indonesia first lesson | [lessons/INDONESIAN_01.md](lessons/INDONESIAN_01.md) |
 | Starting diagnostic / answers | [practice/DIAGNOSTIC_2026-11-22.md](practice/DIAGNOSTIC_2026-11-22.md) |
-| Browser study hub | [index.html](index.html) |
+| Verified IB/Pearson book crosswalk | [BOOK_CROSSWALK.md](BOOK_CROSSWALK.md) |
 
 ## Required precedence
 
@@ -36,7 +36,7 @@
 
 This GitHub repository was observed to be **public** on 22 Nov 2026. Store **original lesson notes, plans, question sets, source citations and derived learning objectives only**. Do **not** commit Pearson textbooks, copyrighted PDFs, private school slides, personal data, or account credentials. Link to lawful reference sources and store private uploads/teacher files in permissioned Drive.
 
-The first Drive folder provided by the learner currently gives a connector 404 with both available connected accounts; the second folder and its subfolders are readable. Do not claim all requested resources were reviewed. The third-party ibdocs catalogue could not be fetched in the present environment. Source status is maintained in SOURCE_REGISTRY.md.
+Both supplied Drive folders are now accessible. The first contains 20 PDFs in Mathematics, Physics, Biology and Chemistry (including a 0-byte Physics guide), and its verified textbook crosswalk is documented in BOOK_CROSSWALK.md. Do not claim all requested resources were reviewed. The third-party ibdocs catalogue could not be fetched in the present environment. Source status is maintained in SOURCE_REGISTRY.md.
 
 ### Continuing workflow
 

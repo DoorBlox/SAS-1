@@ -1,10 +1,13 @@
 # CHATGPT HANDOFF — SAS-1 (READ FIRST)
 
-**Updated:** 22 November 2026 (Asia/Jakarta), after teacher papers, new 12-file Maths folder, IB guide, Oxford/Pearson review. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
+**Updated:** 22 November 2026 (Asia/Jakarta), after learner changed sequencing to TEACH ENTIRE SYLLABUS BEFORE ANY TESTS. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
+
+
+> **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
 
 ## CRITICAL: user instructions reaffirmed 22 Nov — read before tutoring
 
-**User has repeatedly objected to being given a quiz before being taught. This is a standing instruction.** Start EACH new topic from zero: intuition, why the concept works, derivation, graphical interpretation, definitions and restrictions, complete reusable revision notes, memorable cues, teacher-calibrated IB-style worked solutions with method/accuracy/reasoning, and ONLY THEN an optional learner attempt. Do not default to a diagnostic.
+**User has repeatedly objected to being given a quiz before being taught. This is a standing instruction.** Start EACH new topic from zero: intuition, why the concept works, derivation, graphical interpretation, definitions and restrictions, complete reusable revision notes, memorable cues, teacher-calibrated IB-style worked solutions with method/accuracy/reasoning, and ONLY AFTER ALL MATH SYLLABUS CHAPTERS HAVE BEEN TAUGHT AND THE LEARNER REQUESTS PRACTICE, invite a learner attempt. Do not default to a diagnostic.
 
 **IB style is not a label.** Actually align to (a) school's Pre-IB SAS objectives and teacher formative, (b) official IB Mathematics AA guide (first assessment 2021; updated November 2024, 101-page uploaded PDF), (c) Oxford IB Prepared AA body-read relevant sections, and (d) Pearson AA HL 2019 textbook chapter references. Regular student CCC practice is the minimum prerequisite, not the Pre-IB ceiling. Use IB command terms and M/A/R marking where appropriate. Pre-IB school exam is not an official IB DP exam.
 
@@ -18,7 +21,7 @@
 
 **What's still needed:** No further MATH syllabus is required; school master and genuine IB guide already in hand. Teacher clarification about actual calculator policy/last-minute format changes may be useful but not needed to begin. For later exams Arabic teacher vocabulary/grammar, Bahasa Indonesia teacher model/rubric and Physics/Biology details are still partially missing.
 
-**NEXT ACTION:** Stop indexing and teach! Complete chapter from zero with an IB-aligned worked example, not an opening quiz. The exponents lesson and saved notes exist in guides/MATH_01_EXPONENTS_SURDS.md. Follow with logarithms, quadratics/Vieta/graphs, SPLTV/linear programming; reserve tomorrow-morning relevance for Indonesian TBEM too. Always give a study guide and memorisation/retrieval method. Do not promise async work.
+**NEXT ACTION:** Continue the teach-all phase, with NO interim tests. An in-chat comprehensive overview began with Unit 1: Exponents & surds; next complete Unit 2 logarithms, Unit 3 quadratics, Unit 4 SPLTV and linear programming, then exam-critical Bahasa Indonesia teaching. Stop indexing and teach! Complete chapters from zero with IB-aligned worked examples, not quizzes. The exponents lesson and saved notes exist in guides/MATH_01_EXPONENTS_SURDS.md. Follow with logarithms, quadratics/Vieta/graphs, SPLTV/linear programming; reserve tomorrow-morning relevance for Indonesian TBEM too. Always give a study guide and memorisation/retrieval method. Do not promise async work.
 
 ## Non-negotiable user decisions
 - **Teach the student.** Do not just plan, make PDFs, or dump answers. Teach concepts interactively, make the learner attempt questions, mark reasoning, revisit errors.
@@ -64,6 +67,11 @@ The learner has Q1 8/10 and Q2 6/10 under tutor rubrics; **do not cold-retest be
 
 ## Immediate next action
 **TEACH now**. Diagnostic **Math Q1 completed** correctly: disguised quadratic exponential equation, both \`x=0,2\` found with correct steps. Tutor rubric **8/10**, missing explicit \`a=2^x>0\` statement and original-equation verification. **Next: Math Q2** (graph of \`f(x)=3^(x-2)-4\`: graph transformations, asymptote, domain, range). Ask for student's explanation before revealing final. Then Math Q3 (log domain), Q4 (Vieta), Q5 (linear programming), and Indonesian TBEM Q6. Do not delay actual teaching while collecting more files.
+
+## Live session state — full teaching phase
+- User expressly asked: 'teach me everything all the materials first then well get to testing or if i have any questions'. Thus **NO STUDENT TESTING AT ALL** until the teaching phase has covered entire Mathematics syllabus and student opts in.
+- Full original revision chapters are already saved: `guides/MATH_01_EXPONENTS_SURDS.md` through `guides/MATH_04_LINEAR_PROGRAMMING.md` and paper index `MATH_05_PAPER_CROSSWALK.md`.
+- 22 Nov current chat full teaching began with intuitive exponents, laws, surds, exponential equations, functions and inequalities, with no question posed. Next live teaching is logarithms, quadratics, SPLTV/linear programming, and then Indonesian before the 23 Nov exams. Student is allowed to interrupt with questions.
 
 ## Resume template
 "Continue SAS-1 from https://github.com/DoorBlox/SAS-1/blob/main/CHATGPT_HANDOFF.md. Read source registry, day plan and mastery. It is [current date]. Teach me the next highest-priority topic interactively; update my progress and handoff after assessment."

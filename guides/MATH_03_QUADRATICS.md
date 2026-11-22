@@ -103,3 +103,26 @@ On a blank page, reconstruct three forms, derive the axis by completing square, 
 A quadratic $f(x)=x^2-4x+c$ has a minimum value of $-3$. Find $c$, vertex, and both roots, justifying every step and the range. The final question is not the first thing a tutor should give you; learn the above first.
 
 **Next:** [SPLTV and linear programming](MATH_04_LINEAR_PROGRAMMING.md).
+
+
+## Slide-and-divide / AC factorisation — a preferred learner technique
+
+**The student recalled this method and explicitly preferred it over treating division by the leading coefficient as awkward.** It is a systematic way to factor non-monic quadratics using integer factor pairs.
+
+For $ax^2+bx+c$ with $a\ne0$, temporarily factor the *monic auxiliary expression*
+$$x^2+bx+ac=(x+m)(x+n),\quad m+n=b,\quad mn=ac.$$
+**This auxiliary expression is NOT generally equal to the original polynomial.** Correctly restore $a$ by dividing the constants in the two factors by $a$ and multiplying the resulting factors by $a$:
+$$\boxed{ax^2+bx+c=a\left(x+\frac ma\right)\left(x+\frac na\right).}$$
+Simplify to obtain integer-coefficient factors if possible.
+
+**Full worked example:** $6x^2+11x+3$ has $ac=18$, so use $x^2+11x+18=(x+9)(x+2)$. Restore correctly:
+$$6(x+9/6)(x+2/6)=6(x+3/2)(x+1/3)=(2x+3)(3x+1).$$
+
+**Alternative equivalent slide-and-divide presentation:**
+$$ax^2+bx+c=\frac{(ax+m)(ax+n)}{a}.$$
+The right side expands to $ax^2+(m+n)x+mn/a=ax^2+bx+c$. For the same example,
+$$(6x+9)(6x+2)/6=(2x+3)(3x+1).$$
+
+**Crucial caveat:** never simply drop $a$ and claim $ax^2+bx+c=(x+m)(x+n)$; the intermediate quadratic $x^2+bx+ac$ is only a factor-pair tool. If solving $ax^2+bx+c=0$, dividing the entire original equation by any nonzero constant preserves its roots, but if giving the original polynomial's factorisation, retain the correct overall coefficient.
+
+**Method recognition:** For a quadratic with integer coefficients and a non-unit $a$, try the AC/slide-and-divide trick when $ac$ has a convenient factor pair; if not, completing the square or the quadratic formula still works. No questions to the student until they opt into practice.

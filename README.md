@@ -11,6 +11,8 @@
 
 **MATH LOGARITHMS — EXAM PRIORITY:** [All log laws, argument/base domain traps and five fully worked teacher-style examples](guides/MATH_LOG_LAWS_QUICK_REFERENCE.md). The master math cheat sheet now has a **front-page log formula table**.
 
+**FULL TEACHER PRACTICE PAPER ANSWERS:** [All 20 Mathematics IB Prep questions — every subpart, method and exact answer](guides/MATH_IB_PREP_PRACTICE_20_WORKED_ANSWERS.md). Graph Q12 verified from page 2; plotting guidance Q15 includes every exact coordinate.
+
 ## Quick navigation
 
 | What | Where |

@@ -1,6 +1,6 @@
 # CHATGPT HANDOFF — SAS-1 (READ FIRST)
 
-**Updated:** 22 November 2026 (Asia/Jakarta). **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
+**Updated:** 22 November 2026 (Asia/Jakarta), after first-folder access recheck. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
 
 ## Non-negotiable user decisions
 - **Teach the student.** Do not just plan, make PDFs, or dump answers. Teach concepts interactively, make the learner attempt questions, mark reasoning, revisit errors.
@@ -16,7 +16,7 @@
 - Uploaded 13-page `KISI-KISI SAS 20262027_KELAS 10.pdf`, also duplicate `(1).pdf`. The first has been fully extracted and checked. Pre-IB Math 15 essays (pp. 2–3); Pre-IB Biology 40 MCQ + 5 essays (p. 1); Pre-IB Bahasa Indonesia 2 essays (pp. 10–11); Pre-IB English 50 MCQ plus writing essay, 200–250 words per teacher-specific file (p. 11 plus English file).
 - Image `WhatsApp Image 2026-11-21 at 15.33.57.jpeg` is the complete SAS calendar (school-wide table, grade X column).
 - Drive folder available: https://drive.google.com/drive/folders/1zlM3WMt0GfW8NpDCw_xT62toZRq97A8k
-- Folder inaccessible on both configured Drive accounts (provider 404, NOT a proven invalid URL): https://drive.google.com/drive/u/1/folders/1mKrMu5LOJxAXdxfTIBSzS70EHoHreLva
+- **Newly accessible source collection:** https://drive.google.com/drive/folders/1mKrMu5LOJxAXdxfTIBSzS70EHoHreLva (rechecked 22 Nov). Dedicated Maths/Physics/Biology/Chemistry folders, 20 PDFs including Pearson IB HL, Oxford IB Prepared, Biology theme modules. See BOOK_CROSSWALK.md for verified chapter/pages vs inventory-only.
 - Accessible `KISI-KISI PER MAPEL` folder: https://drive.google.com/drive/folders/1krgv6DSxgaesGFhEoeMvf4eq5TzpLMuK — regular Math and Indonesian are **not** authoritative for the Pre-IB formats; individual Physics, English, Islamic studies etc. available.
 - Accessible `SUMBER BELAJAR` folder: https://drive.google.com/drive/folders/1uEzHtl-KfVxMLj5foNAdGxujTiBUXZnK — SKI book, Qurdis book, Economics book, KAI modules, Akidah study book.
 - Official IB resources and specific Pearson edition/topic mapping still need confirmation. User offered https://ibdocs.re/subject-guides and https://ibdocs.re/books; link references do not by themselves prove downloaded books were read.
@@ -48,6 +48,9 @@ PRE-IB English: descriptive/procedure/narrative texts, prescribed grammar; 50 MC
 
 ## Unfinished / verification required
 - Teacher Pre-IB Math powerpoint, assessments, workbook pages; Pre-IB Indonesian model responses/rubric; Arabic textbooks and wordlists; Pre-IB Biology & English Pearson **exact edition and assigned chapters**. Important: no fabricated book pages.
-- A 404 on the first Drive folder prevents verification of its contents; request access/share or direct upload.
+- The first Drive folder now opens with both connected accounts. Inventory complete; full-book page-by-page reading remains incomplete for many giant PDFs. Do not claim all books are fully read.
 - No formal grades or completed diagnostic recorded yet. Do not claim mastery.
 - No deployed study website, even if index.html exists. Confirm GitHub Pages/other hosting before presenting a public live website.
+
+## New source access — decision log (22 Nov)
+First Drive folder is now accessible. Math Oxford IB Prepared AA 2021 has verified contents: §1.3 exponentials/logarithms p13; §2.3 quadratic/rational/exponential/logarithmic functions p49; §2.4 graph transformations p60. Physics Pearson 2023 contents: A.1 Kinematics p4. Biology Oxford IB Prepared reference: A3.1 Diversity p27; A3.2 Classification p31; A4.2 Conservation p40. Chemistry Oxford 2023 guide contents inspected. Pearson Mathematics 2019 and several giant Biology references yielded empty text from the Drive text fetch: do **not** pretend full reading. School Pre-IB scope remains the authority. First diagnostic committed at practice/DIAGNOSTIC_2026-11-22.md. NO student answers or mastery yet. Continue tutoring tonight rather than spending all time indexing.

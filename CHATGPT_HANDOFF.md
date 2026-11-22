@@ -1,6 +1,6 @@
 # CHATGPT HANDOFF — SAS-1 (READ FIRST)
 
-**Updated:** 22 November 2026 (Asia/Jakarta), after Diagnostic Q1 marking. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
+**Updated:** 22 November 2026 (Asia/Jakarta), after Diagnostic Q2 marking. **Student:** X-6 Pre-IB, MAN Insan Cendekia Serpong. **Next exams:** 23 Nov Mathematics 07:30–09:30, Bahasa Indonesia 10:00–12:00.
 
 ## Non-negotiable user decisions
 - **Teach the student.** Do not just plan, make PDFs, or dump answers. Teach concepts interactively, make the learner attempt questions, mark reasoning, revisit errors.
@@ -49,8 +49,8 @@ PRE-IB English: descriptive/procedure/narrative texts, prescribed grammar; 50 MC
 ## Unfinished / verification required
 - Teacher Pre-IB Math powerpoint, assessments, workbook pages; Pre-IB Indonesian model responses/rubric; Arabic textbooks and wordlists; Pre-IB Biology & English **assigned chapters and teacher rubrics**. Important: no fabricated book pages.
 - The first Drive folder now opens with both connected accounts. Inventory complete; full-book page-by-page reading remains incomplete for many giant PDFs. Do not claim all books are fully read.
-- One completed tutor-made Mathematics diagnostic Q1 was marked 8/10 (correct roots; missing explicit domain and verification). **Not** an official grade or proof of broad mastery. All remaining questions unassessed.
+- Tutor-made Mathematics diagnostic **Q1 8/10** (correct roots; missing explicit domain/verification) and **Q2 6/10** (shifts & domain correct; asymptote/range wrong). These are NOT official school grades. Graph range reasoning requires retest. Q3–Q6 unassessed.
 - No deployed study website, even if index.html exists. Confirm GitHub Pages/other hosting before presenting a public live website.
 
 ## New source access — decision log (22 Nov)
-First Drive folder is now accessible. Math Oxford IB Prepared AA 2021 has verified contents: §1.3 exponentials/logarithms p13; §2.3 quadratic/rational/exponential/logarithmic functions p49; §2.4 graph transformations p60. Physics Pearson 2023 contents: A.1 Kinematics p4. Biology Oxford IB Prepared reference: A3.1 Diversity p27; A3.2 Classification p31; A4.2 Conservation p40. Chemistry Oxford 2023 guide contents inspected. Pearson Mathematics 2019 and several giant Biology references yielded empty text from the Drive text fetch: do **not** pretend full reading. School Pre-IB scope remains the authority. First diagnostic committed at practice/DIAGNOSTIC_2026-11-22.md. One valid learner response has now been received for Math Q1; foundation demonstrated on disguised quadratic substitution only. Continue tutoring with Q2 tonight rather than spending all time indexing.
+First Drive folder is now accessible. Math Oxford IB Prepared AA 2021 has verified contents: §1.3 exponentials/logarithms p13; §2.3 quadratic/rational/exponential/logarithmic functions p49; §2.4 graph transformations p60. Physics Pearson 2023 contents: A.1 Kinematics p4. Biology Oxford IB Prepared reference: A3.1 Diversity p27; A3.2 Classification p31; A4.2 Conservation p40. Chemistry Oxford 2023 guide contents inspected. Pearson Mathematics 2019 and several giant Biology references yielded empty text from the Drive text fetch: do **not** pretend full reading. School Pre-IB scope remains the authority. First diagnostic committed at practice/DIAGNOSTIC_2026-11-22.md. Two valid learner responses have been received for Math Q1/Q2; disguised quadratic foundation demonstrated; graph range/asymptote not yet demonstrated. Continue tutoring with Q2 tonight rather than spending all time indexing.

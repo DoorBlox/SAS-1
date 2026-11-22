@@ -24,6 +24,16 @@
 | Verified IB/Pearson book crosswalk | [BOOK_CROSSWALK.md](BOOK_CROSSWALK.md) |
 | Teacher slides / materials intake | [MATERIALS_INTAKE.md](MATERIALS_INTAKE.md) |
 
+### Complete Mathematics revision series — teach-first
+
+These independently written chapters align the school SAS objectives to actual official IB AA guidance, Oxford IB Prepared Maths AA, Pearson AA HL chapter choices and the uploaded teacher papers. **Read the explanation and worked examples before attempting problems.**
+
+- [01 — Exponents, surds and exponential graphs](guides/MATH_01_EXPONENTS_SURDS.md)
+- [02 — Logarithms and validity of solutions](guides/MATH_02_LOGARITHMS.md)
+- [03 — Quadratics, discriminants, Vieta and graphs](guides/MATH_03_QUADRATICS.md)
+- [04 — SPLTV and linear programming](guides/MATH_04_LINEAR_PROGRAMMING.md)
+- [Teacher/regular paper question-to-topic crosswalk](guides/MATH_05_PAPER_CROSSWALK.md)
+
 ## Required precedence
 
 1. The **school's Pre-IB entries** in the uploaded PDF `KISI-KISI SAS 20262027_KELAS 10.pdf` govern Mathematics, Biology, Bahasa Indonesia and English.

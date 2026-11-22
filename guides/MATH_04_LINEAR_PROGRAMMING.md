@@ -2,6 +2,8 @@
 > **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
 
 
+**IMPORTANT 23 Nov teacher update:** The real SAS will **NOT test SPLTV**. Keep SPLTV/advanced matrix sections below only as archived supplementary background. For this exam, begin at **Section C: half-plane inequalities**, then learn feasible regions, vertices, and optimization. **SPtLDV/linear programming remains in scope** unless the teacher says otherwise.
+
 **Grade X-6 Pre-IB school SAS.** New source inputs: LKPD-SPLTV, DIGIBOOK Ch.5 SPLTV/SPtLDV, LKPD-SPtLDV; official IB AA AHL1.16 (three-equation linear systems) and SL2.1–2.4 (lines, graphing, solutions); Pearson AA HL Ch.1. **Linear programming is REQUIRED by the school kisi-kisi even though it should not be claimed as a distinct IB DP AA core topic.** These notes are original.
 
 ## A. Why systems of equations exist — intuition

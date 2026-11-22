@@ -2,7 +2,10 @@
 
 **Core philosophy:** The regular course is the foundation, but Pre-IB success demands stronger reasoning and explanations. A solution obtained by accident, copied steps, or unexplained formula is NOT mastery.
 
-## Mandatory session loop — TEACH FIRST
+
+> **Standing learner preference (22 Nov 2026): TEACH ALL RELEVANT MATERIAL FIRST, THEN TEST ONLY WITH EXPLICIT OPT-IN.** Work through every major syllabus chapter and original notes in a cohesive teaching phase, from zero to Pre-IB depth. The learner may interrupt with questions at any point. Do not insert mini-quizzes, diagnostics, transfer problems or questions for the student to answer while the teaching phase is ongoing. Worked examples are permitted; label exercises in archived guides as *for later*. After all chapters have been explained, ask whether they want clarification or to switch to practice, but do not auto-start assessment.
+
+## Mandatory session loop — TEACH ALL BEFORE TESTING
 0. Review this handoff and verified source map. The student explicitly requests to be taught **from zero before any diagnostic or challenge**; do not make the learner repeat it.
 1. State school Pre-IB target and link to actual IB AA/teacher material; school syllabus determines scope, regular material the baseline, Pearson/Oxford the conceptual extension.
 2. Explain intuition and purpose in everyday words, with diagram/model or numerical illustration.
@@ -10,7 +13,7 @@
 4. Deliver complete, independently reusable notes and several annotated examples, including the IB command terms and graphical/algebraic approaches.
 5. Demonstrate a teacher-style multi-part fully worked solution before giving the learner any question; annotate expected M Method, A Accuracy, R Reasoning (when supported by specific school markscheme).
 6. Give recall/memorisation strategies and a short retrieval script for revision.
-7. ONLY AFTER TEACHING invite one student attempt, offer a hint, mark steps, diagnose misconceptions, and transfer to a structurally different problem.
+7. **ONLY AFTER THE FULL SET OF RELEVANT SYLLABUS CHAPTERS HAS BEEN TAUGHT AND THE LEARNER EXPLICITLY WANTS TO PRACTISE:** invite one student attempt, offer a hint, mark steps, diagnose misconceptions, and transfer to a structurally different problem. Do not ask mini-questions during the teaching phase.
 8. Update GitHub mastery tracker (evidence only) and handoff. Keep sources, uncertainties and teacher errors visible.
 
 ## Response conventions

@@ -19,7 +19,7 @@
 - **Newly accessible source collection:** https://drive.google.com/drive/folders/1mKrMu5LOJxAXdxfTIBSzS70EHoHreLva (rechecked 22 Nov). Dedicated Maths/Physics/Biology/Chemistry folders, 20 PDFs including Pearson IB HL, Oxford IB Prepared, Biology theme modules. See BOOK_CROSSWALK.md for verified chapter/pages vs inventory-only.
 - Accessible `KISI-KISI PER MAPEL` folder: https://drive.google.com/drive/folders/1krgv6DSxgaesGFhEoeMvf4eq5TzpLMuK — regular Math and Indonesian are **not** authoritative for the Pre-IB formats; individual Physics, English, Islamic studies etc. available.
 - Accessible `SUMBER BELAJAR` folder: https://drive.google.com/drive/folders/1uEzHtl-KfVxMLj5foNAdGxujTiBUXZnK — SKI book, Qurdis book, Economics book, KAI modules, Akidah study book.
-- Official IB resources and specific Pearson edition/topic mapping still need confirmation. User offered https://ibdocs.re/subject-guides and https://ibdocs.re/books; link references do not by themselves prove downloaded books were read.
+- Official IB guide-to-school mapping and specific assigned Pearson chapters still need confirmation; editions for the four Pearson IB HL titles were identified in newly accessible Drive. User offered https://ibdocs.re/subject-guides and https://ibdocs.re/books; link references do not by themselves prove downloaded books were read.
 - See SOURCE_REGISTRY for precise links and read status.
 
 ## Verified exam sequence for X from school timetable image
@@ -47,7 +47,7 @@ PRE-IB English: descriptive/procedure/narrative texts, prescribed grammar; 50 MC
 "Continue SAS-1 from https://github.com/DoorBlox/SAS-1/blob/main/CHATGPT_HANDOFF.md. Read source registry, day plan and mastery. It is [current date]. Teach me the next highest-priority topic interactively; update my progress and handoff after assessment."
 
 ## Unfinished / verification required
-- Teacher Pre-IB Math powerpoint, assessments, workbook pages; Pre-IB Indonesian model responses/rubric; Arabic textbooks and wordlists; Pre-IB Biology & English Pearson **exact edition and assigned chapters**. Important: no fabricated book pages.
+- Teacher Pre-IB Math powerpoint, assessments, workbook pages; Pre-IB Indonesian model responses/rubric; Arabic textbooks and wordlists; Pre-IB Biology & English **assigned chapters and teacher rubrics**. Important: no fabricated book pages.
 - The first Drive folder now opens with both connected accounts. Inventory complete; full-book page-by-page reading remains incomplete for many giant PDFs. Do not claim all books are fully read.
 - No formal grades or completed diagnostic recorded yet. Do not claim mastery.
 - No deployed study website, even if index.html exists. Confirm GitHub Pages/other hosting before presenting a public live website.

@@ -46,3 +46,11 @@ This GitHub repo is **public**. Do not mirror teacher PPT files, full commercial
 - Read the first folder and all directly nested subject folders; Biology modules and reference folders also enumerated. Exactly 20 PDF items; one Physics guide reports zero bytes and may need re-upload.
 - Text extraction succeeded for Oxford IB Prepared AA 2021, Pearson Physics 2023, Oxford Chemistry Study Guide 2023, and Oxford IB Prepared Biology reference extract. Large Pearson Maths & Biology returned no readable text from the Drive text fetch, so their detailed objectives are still pending.
 - See **BOOK_CROSSWALK.md** for file-by-file links, TOC page mappings and gaps.
+
+## 22 November additional verified Maths/IB source intake
+- Official IB Mathematics Analysis & Approaches guide (first assessment 2021, updated November 2024) uploaded as a 101-page PDF; key chapters and command terms reviewed.
+- Teacher quadratic formative (2 PDF pages, 15 questions) and 92-mark teacher-style DOCX markscheme (7 pages); question errors in Q1, Q7, Q9 openly flagged.
+- NEW Google Drive math archive with 12 files: https://drive.google.com/drive/folders/1QAmOp9DNRUlLAXJPW-EI6BtqXERIEV1g (child https://drive.google.com/drive/folders/1hXCY1EuxvHX8OGVIfUnuaEP8kN6HW6BG). Read key exponent/log, quadratic, SPLTV and SPtLDV extracts; multiple duplicated earlier uploads.
+- Scribd Pearson AA HL 2019 text preview https://www.scribd.com/document/770936418/Pearson-Mathematics-for-the-IB-Diploma-Analysis-and-Approaches-HL ; read introduction/Chapter 1 excerpt and verified Pearson Ch.1, Ch.2 and Ch.4 through Pearson publisher sample and British Library bibliographic catalogue. Full 335MB Drive book extraction still empty, so no page-by-page assertions.
+- Oxford IB Prepared AA original body inspected at §1.3 pp.13–16, §2.3 pp.49+, §2.4 pp.60+; before this only contents were verified.
+- Full source-to-objective crosswalk and caution/rights: [Math source map](guides/MATHEMATICS_SOURCE_MAP.md); [IB alignment](guides/IB_MATHEMATICS_ALIGNMENT.md). Do not request further Math syllabus (already supplied) or cold-test learner.

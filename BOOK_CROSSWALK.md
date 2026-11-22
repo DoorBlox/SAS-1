@@ -64,3 +64,8 @@ Biology Oxford IB Prepared (for first assessment 2025) gives command terms such 
 
 ## Source-integrity and rights
 The collection contains copyrighted commercial books, some hundreds of megabytes. These are **reference-only**. Do not re-upload book PDFs or verbatim chapters into a PUBLIC repository. Save original worked explanations and references to specific inspected pages instead. Access to files is not proof all pages were read. Teacher PowerPoints and assessment rubrics remain a higher-priority missing source.
+
+## 22 Nov verified Math source update — overrides earlier TOC-only statements
+- The actual **Oxford IB Prepared AA** body text has now been read at **§1.3 pp.13–16, §2.3 pp.49+, §2.4 pp.60+**. Earlier table entries saying TOC-only for §2.3/2.4 are outdated.
+- The full Pearson AA HL 2019 Drive extract was empty. But Pearson's publisher sample and the British Library table of contents plus the user-supplied Scribd text preview verify **Ch.1 Algebra/number/function basics, Ch.2 Functions, Ch.4 Exponential/logarithmic functions** as appropriate navigation targets. No exact Pearson page numbers have been verified.
+- The official 101-page IB AA guide (Nov 2024 update) and new 12-file Math archive including SPLTV/SPtLDV are received. See [verified IB alignment](guides/IB_MATHEMATICS_ALIGNMENT.md) and [all math source map](guides/MATHEMATICS_SOURCE_MAP.md).

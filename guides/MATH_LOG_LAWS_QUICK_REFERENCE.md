@@ -68,7 +68,7 @@ Then $x/4=135\Rightarrow\boxed{x=540}$.
 \`\`\`
 Domain **$x>2$**. Combine: $\log_2[x(x-2)]=3$, then
 \`\`\`math
-x^2-2x-8=0=(x-4)(x+2)
+x^2-2x-8=(x-4)(x+2)=0
 \`\`\`
 Candidates $x=4,-2$; reject **$-2$** because $x>2$. **$x=4$** is the only solution.
 

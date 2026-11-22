@@ -29,6 +29,9 @@
 
 ### Complete Mathematics revision series — teach-first
 
+**FULL EXAM CHEAT SHEET:** [All equations, identities, domains, ranges, parameter conditions, and problem-recognition methods](guides/MATH_SAS_MASTER_CHEATSHEET_2026.md) — **UPDATED 23 Nov, SPLTV EXCLUDED**.
+
+
 These independently written chapters align the school SAS objectives to actual official IB AA guidance, Oxford IB Prepared Maths AA, Pearson AA HL chapter choices and the uploaded teacher papers. **Read the explanation and worked examples before attempting problems.**
 
 - [01 — Exponents, surds and exponential graphs](guides/MATH_01_EXPONENTS_SURDS.md)

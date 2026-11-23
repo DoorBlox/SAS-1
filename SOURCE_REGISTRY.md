@@ -58,3 +58,18 @@ This GitHub repo is **public**. Do not mirror teacher PPT files, full commercial
 ## 23 Nov new Bahasa Indonesia source
 - User uploaded **`Dokumen tanpa judul-2.pdf`**, actually inspected 7 pages, title **Panduan Pilihan Penulis (Authorial Choices)**. Group 1 **20 Bahasa Kiasan & Perangkat Sastra**; Group 2 **20 Pilihan Bunyi & Kata**; Group 3 **2 Perangkat Retorika & Persuasi**. Named entries 1–42 indexed and described in [complete Indonesian guide](guides/INDONESIAN_PREIB_TBEM_AUTHORIAL_CHOICES_2026.md). PDF not redistributed to public GitHub.
 - Official IB source cross-check: [Language A Language and Literature overview](https://ibo.org/programmes/diploma-programme/curriculum/language-and-literature/language-a-language-and-literature/) and [IB 2026 examiner instructions](https://ibpublishing.ibo.org/exinst/apps/exinst/index.html?chapter=1&doc=EX_instructions_2026_e&part=8), A/B/C/D. These are authentic IB DP reference only; **school Pre-IB SAS remains two essays on biografi/LHO/rhetoric/TBEM**. No actual Bahasa Indonesia teacher-specific marking rubric obtained; do not invent it.
+
+
+## 23 Nov source correction: Physics X6 Pre-IB versus REGULAR
+**User confirms the school's Physics 25-MCQ kisi-kisi is for REGULAR students, not Pre-IB.** Primary Pre-IB SAS comparison source: **26 screenshots showing 35 questions of Kinematics Formative X6 (Q1.1–Q1.35)**; teacher reportedly expects similar physics reasoning topics on SAS. Additional Pre-IB source: **fisika projectile.mhtml**, AssessPrep Projectile Motion Summative, 19 question groups / 25 pts; parsed as MHTML. User says students should master regular material too, but it must always be labelled regular. **Scope map:** [Physics IB-vs-regular source guide](guides/PHYSICS_00_PREIB_35Q_AND_REGULAR_CROSSWALK.md).
+
+Eight more **REGULAR** PDF scans, found and all inspected as page images (Drive readable-text fetch yielded empty because PDFs are scanned): [Drive folder](https://drive.google.com/drive/folders/18w9TVPRyuGkrI4tqNEOB_UaxYTlRzAcS).
+- [tugas fisika 2.pdf](https://drive.google.com/file/d/1lcBakv_SSoqDjiMRAzTcXT0OCdwdExll/view), 4pp: gerak lurus, basic graphs.
+- [FISIKA LATSOL PARABOLA.pdf](https://drive.google.com/file/d/1h3f-q02bsAdNo8mb-uq3WpnAZ340WOLw/view), 1p: 9 projectile calculations.
+- [SOAL REVIEW FISIKA S1.pdf](https://drive.google.com/file/d/1x8_WRz1HfysSk-nLKPBS30Wml7En_7ho/view), 4pp: 25 mixed regular questions including measurement.
+- [FISIKA VEKTOR.pdf](https://drive.google.com/file/d/1MZayZ8BdjQdBHbrGqtZgGU5neEpf6GVN/view), 4pp: vectors & resultant direction.
+- [FISIKA ANGKA PENTING.pdf](https://drive.google.com/file/d/1oy6SWwTwFf5dPfFAx1M4esgJYpJ4yxmo/view), 1p: significant figures.
+- [FISIKA GERAK LURUS.pdf](https://drive.google.com/file/d/1zj_u9GuqZqVcm6ddlQGYulgGjcX6XMHq/view), 4pp: kinematic equation derivation and graph interpretation.
+- [FISIKA BESARAN & SATUAN.pdf](https://drive.google.com/file/d/1tk70EbU5QLD6lq_kKOWjvdLJaTN8S09g/view), 3pp: units, dimensions, scientific notation.
+- [FISIKA FORMATIF PARABOLA.pdf](https://drive.google.com/file/d/1bbS2-gKMBzvTJeJoC1-xQbTVzZXZTpga/view), 2pp: 20 projectile problems.
+Also previously attached **REGULAR** 5pp Formatif Parabola Lembayung X-1 and 4pp Tugas Fisika 2 Lembayung X-1, directly visually reviewed. No school document in this corpus verifies measurement or significant figures included in the actual Pre-IB SAS, so do not claim it is.

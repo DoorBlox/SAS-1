@@ -13,6 +13,8 @@
 
 **FULL TEACHER PRACTICE PAPER ANSWERS:** [All 20 Mathematics IB Prep questions — every subpart, method and exact answer](guides/MATH_IB_PREP_PRACTICE_20_WORKED_ANSWERS.md). Graph Q12 verified from page 2; plotting guidance Q15 includes every exact coordinate.
 
+**PHYSICS FOR 24 NOV — SOURCE PRIORITY CORRECTED:** [Pre-IB 35-question formative (Q1.1–Q1.35) vs 8 verified REGULAR PDFs, with topic-by-topic mapping and screenshot-answer corrections](guides/PHYSICS_00_PREIB_35Q_AND_REGULAR_CROSSWALK.md). **Pre-IB = teacher-reported Formative X6 style; school 25-MCQ Physics kisi-kisi = REGULAR ONLY.** Regular material is learned as foundation/enrichment, not a confirmed Pre-IB exam blueprint.
+
 ## Quick navigation
 
 | What | Where |

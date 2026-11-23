@@ -15,6 +15,8 @@
 
 **PHYSICS FOR 24 NOV — SOURCE PRIORITY CORRECTED:** [Pre-IB 35-question formative (Q1.1–Q1.35) vs 8 verified REGULAR PDFs, with topic-by-topic mapping and screenshot-answer corrections](guides/PHYSICS_00_PREIB_35Q_AND_REGULAR_CROSSWALK.md). **Pre-IB = teacher-reported Formative X6 style; school 25-MCQ Physics kisi-kisi = REGULAR ONLY.** Regular material is learned as foundation/enrichment, not a confirmed Pre-IB exam blueprint.
 
+**PHYSICS MASTER CHEAT SHEET (24 NOV SAS):** [All Pre-IB kinematics formulas together + when to use each, conditions and 35-question crosswalk](guides/PHYSICS_SAS_MASTER_CHEATSHEET_2026.md). [Full 35-Q Pre-IB versus REGULAR source map](guides/PHYSICS_00_PREIB_35Q_AND_REGULAR_CROSSWALK.md).
+
 ## Quick navigation
 
 | What | Where |
